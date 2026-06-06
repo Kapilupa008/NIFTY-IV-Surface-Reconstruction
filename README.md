@@ -36,7 +36,7 @@ Key components:
 
 ## Files
 
-### code2.ipynb
+### code.ipynb
 
 Main reconstruction notebook.
 
